@@ -1,0 +1,76 @@
+{
+  "surtidores": [
+    {
+      "id": 1,
+      "combustible": {
+        "nombre": "Nafta Súper",
+        "precioLitro": 1250.0
+      },
+      "litrosDisponibles": 3200
+    },
+    {
+      "id": 2,
+      "combustible": {
+        "nombre": "Nafta Premium",
+        "precioLitro": 1430.5
+      },
+      "litrosDisponibles": 5800
+    },
+    {
+      "id": 3,
+      "combustible": {
+        "nombre": "Gasoil",
+        "precioLitro": 1180.0
+      },
+      "litrosDisponibles": 6100
+    },
+    {
+      "id": 4,
+      "combustible": {
+        "nombre": "Gasoil Premium",
+        "precioLitro": 1375.5
+      },
+      "litrosDisponibles": 6900
+    },
+    {
+      "id": 5,
+      "combustible": {
+        "nombre": "GNC",
+        "precioLitro": 640.0
+      },
+      "litrosDisponibles": 9400
+    }
+  ],
+  "empleados": [
+    {
+      "dni": 32100111,
+      "nombre": "Juan Pérez",
+      "puesto": "Playero",
+      "turno": "Mañana"
+    },
+    {
+      "dni": 30888222,
+      "nombre": "Carla Rodríguez",
+      "puesto": "Playero",
+      "turno": "Tarde"
+    },
+    {
+      "dni": 29999333,
+      "nombre": "Andrés López",
+      "puesto": "Supervisor",
+      "turno": "Noche"
+    },
+    {
+      "dni": 32222444,
+      "nombre": "María Fernández",
+      "puesto": "Administrativa",
+      "turno": "Mañana"
+    },
+    {
+      "dni": 31555666,
+      "nombre": "Diego Torres",
+      "puesto": "Encargado",
+      "turno": "Tarde"
+    }
+  ]
+}
